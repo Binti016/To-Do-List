@@ -1,0 +1,66 @@
+.main{
+    background-color: #FFD5B5;
+}
+.main-task-page {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    /* height: 100vh; */
+    background-color: #FFD5B5;
+
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  
+  .ul-map ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .ul-map ul li {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  } 
+  
+  h3 {
+    margin-bottom: 5px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+ 
+  .task-done-btn {
+    background-color: transparent;
+    border: 2px solid #999;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px 10px;
+  }
+  
+  .task-done-btn.completed {
+    background-color: green;
+    border-color: green;
+    color: white;
+  }
+  
+ 
+  .task-done-btn.completed::after {
+    margin-left: 5px;
+  }
+  
+  
+  

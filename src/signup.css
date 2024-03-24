@@ -67,20 +67,23 @@
   
   }
   
-  .main-page #login #login-field #frame-3{
+  .main-page #login #login-field #frame-2 #create-btn{
     margin-top: 10px;
     margin-left: 50px;
+    margin-bottom: 0px;
+    
   }
   
-  .main-page #login #login-field #frame-3 #create-btn{
+  .main-page #login #login-field #frame-2 #create-btn{
     width: 320px;
     padding: 8px 10px;
     background-color: #DB4444;
     border: 0px;
     color: white;
     border-radius: 2px;
+
   }
-  .main-page #login #login-field #frame-3 #create-btn:hover{
+  .main-page #login #login-field #frame-2 #create-btn:hover{
     background-color:  #bc0909;;
   }
   
@@ -95,7 +98,7 @@
   .main-page #login #login-field #frame-3 #frame-4 #ggl-button #icon-button{
     display: flex;
     justify-content: center;
-    gap: 5px;
+    /* gap: 5px; */
   }
   
   .main-page #login #login-field #frame-3 #frame-4 #ggl-button #icon-button img{
@@ -109,6 +112,7 @@
     border: 0px;
     background-color: white;
     border: 1px solid rgb(180, 175, 175);
+    margin-left: 50px;
     
   }
   
@@ -121,6 +125,6 @@
     /* justify-content: center; */
     gap: 5px;
     margin-top: 20px;
-    margin-left: 60px;
+    margin-left: 100px;
   }
   

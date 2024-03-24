@@ -1,0 +1,82 @@
+
+
+.main-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* min-height: 100vh; */
+  }
+  .hero-feature{
+    display: flex;
+    gap: 100px;
+  }
+  
+  .hero-feature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFD5B5; 
+    padding: 50px 0;
+  }
+  
+  
+  .hero-header {
+    text-align: center;
+  }
+  
+  #header-to-do {
+    font-size: 36px;
+    color: #7b2424; 
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  #header-lekha-1 {
+    font-size: 18px;
+    color: #7b2424; 
+    margin-bottom: 30px;
+  }
+  
+  button {
+    background-color: white;
+    color: #d72c05;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    
+  }
+  
+  button:hover {
+    background-color:rgb(243, 241, 241);
+  }
+  
+
+  
+  .feature-section {
+    text-align: center;
+  }
+  
+  #feature {
+    font-size: 30px;
+    color: #7b2424; 
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .feature-section .unordered ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .feature-section li {
+    font-size: 18px;
+    color: #7b2424; 
+    margin-bottom: 10px;
+  }
+  
+  
+  
+  

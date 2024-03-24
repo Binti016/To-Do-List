@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "Boshita",
+      "password": "1234",
+      "email": "brbinti302@gmail.com",
+      "phone": "01987110161"
+    },
+    {
+      "id": "Onti",
+      "password": "12345",
+      "email": "anti.binti@gmail.com",
+      "phone": "01711181390"
+    },
+    {
+      "id": "Boshita",
+      "password": "11111",
+      "email": "shipra@gmail.com",
+      "phone": "1111111111111"
+    },
+    {
+      "id": "Adrita",
+      "password": "janina",
+      "email": "a@gmail.com",
+      "phone": "0215423456"
+    },
+    {
+      "id": "Barun Roy",
+      "password": "1234",
+      "email": "barun@gmail.com",
+      "phone": "098765433"
+    },
+    {
+      "id": "Imran",
+      "password": "1234",
+      "email": "imran@gmail.com",
+      "phone": "0167789900"
+    }
+  ]
+}

@@ -2,7 +2,7 @@ import React from 'react';
 import './navbar.css';
 import { Link } from 'react-router-dom';
 
-function Navbar() {
+function navbar() {
   return (
     // <div className='main-page'>
       <div className="navbar">
@@ -26,4 +26,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default navbar;
